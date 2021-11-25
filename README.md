@@ -1,5 +1,5 @@
 # Ciabatta
-ToastSAT code  
+Code in ciabatta_payload.ino    
   
 Materials:  
   -Arduino Nano Every  
