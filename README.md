@@ -8,6 +8,7 @@ Materials:
   -Wires, leds, resistors
   
 Circuit Diagram:
-![ALt text](<img width="310" alt="image" src="https://user-images.githubusercontent.com/90806944/143334922-b20b4018-2b08-4166-b7fa-a318cea42d9a.png">
+
+<img width="310" alt="image" src="https://user-images.githubusercontent.com/90806944/143334922-b20b4018-2b08-4166-b7fa-a318cea42d9a.png">
 
   
